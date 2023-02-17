@@ -1,5 +1,10 @@
 <h1>Paytm UI</h1>
-<p align="center"><img src="https://i.imgur.com/T2t3qDx.png" alt="Paytm UI"></p>
+
+<p align="center">
+    <iframe src="https://vimeo.com/799810823#t=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</p>
+
+
 <h2>About</h2>
 This is a Flutter project which features the home page UI of the popular mobile payment app, Paytm. The UI has been created using different Flutter widgets and is fully responsive. The app also includes a creative animated drawer which can be accessed by swiping from the left edge of the screen.
 
@@ -19,8 +24,3 @@ Once you have Flutter installed, you can clone this project and run it on an emu
   <li>Animated drawer</li>
   <li>Custom icons</li>
 </ul>
-<h2>Credits</h2>
-This project was created by <a href="https://github.com/ashish10alex">Ashish Alexander</a> as a part of a Flutter UI design challenge. The original design was created by <a href="https://dribbble.com/Aditya-Chhatrala">Aditya Chhatrala</a>.
-
-<h2>License</h2>
-This project is licensed under the MIT License - see the <a href="https://github.com/ashish10alex/paytm-ui/blob/main/LICENSE">LICENSE</a> file for details.
