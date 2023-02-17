@@ -1,9 +1,6 @@
 <h1>Paytm UI</h1>
 
-<p align="center">
-  <iframe src="https://player.vimeo.com/video/799810823?h=4d700d79db" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</p>
-
+https://player.vimeo.com/video/799810823?h=4d700d79db" 
 
 <h2>About</h2>
 This is a Flutter project which features the home page UI of the popular mobile payment app, Paytm. The UI has been created using different Flutter widgets and is fully responsive. The app also includes a creative animated drawer which can be accessed by swiping from the left edge of the screen.
